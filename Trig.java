@@ -1,5 +1,6 @@
 import java.lang.Math;
 import java.util.Scanner;
+import java.applet.*;
 public class Trig
 {
 	public static void main(String[] args) {
