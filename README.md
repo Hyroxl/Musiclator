@@ -1,4 +1,4 @@
-# MusicTranslator
+# Musiclator
 is a software that translates sheet music from one instrument to another
 
 ### instructions
